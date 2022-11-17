@@ -5,6 +5,7 @@
 .container {
   max-width: 480px;
   margin-top: 140px;
+  margin: 140px auto;
 }
 
 .image {
