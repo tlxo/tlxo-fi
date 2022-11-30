@@ -1,2 +1,14 @@
 # Stop this nonsense
 .DS_Store
+
+# Eleventy-related
+_site/
+_tmp/
+node_modules/
+.vscode/
+*git/
+package-lock.json
+.env
+
+# Local Netlify folder
+.netlify
