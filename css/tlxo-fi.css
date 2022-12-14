@@ -31,6 +31,11 @@
   text-decoration: none;
 }
 
+.black {
+  color: #000;
+  text-decoration: none;
+}
+
 .link:hover {
   text-decoration: underline;
 }
