@@ -34,9 +34,14 @@
   text-align: center;
 }
 
-.black {
-  color: #000;
-  text-decoration: none;
+.hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }
 
 .link:hover {
@@ -59,7 +64,7 @@
   text-decoration: underline;
 }
 
-.div-block {
+.link-block {
   width: 200px;
   margin-top: 40px;
   margin-right: auto;
