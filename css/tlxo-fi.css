@@ -45,23 +45,23 @@
 }
 
 .link:hover {
-  text-decoration: underline;
+  text-decoration:steelblue;
 }
 
 .link:active {
-  text-decoration: underline;
+  text-decoration: steelblue;
 }
 
 .link:focus {
-  text-decoration: underline;
+  text-decoration: steelblue;
 }
 
 .link:focus-visible {
-  text-decoration: underline;
+  text-decoration: steelblue;
 }
 
 .link[data-wf-focus-visible] {
-  text-decoration: underline;
+  text-decoration: steelblue;
 }
 
 .link-block {
